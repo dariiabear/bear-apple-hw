@@ -51,6 +51,6 @@ If you encounter any issues while running the tests, please check the following:
 
 ## Contributing
 
-If you find any bugs or have suggestions for improvements, please [open an issue](https://github.com/dariiabear/bear-apple/issues) or submit a pull request.
+If you find any bugs or have suggestions for improvements, please [open an issue](https://github.com/dariiabear/bear-apple-hw/issues) or submit a pull request.
 
 
