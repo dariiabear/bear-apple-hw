@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="869cc5f0-e3f7-42d0-b411-b86f0f4d5cdf" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
+  <component name="ProjectId" id="2f9RgbFxiwcqwAF7WTceAylNinZ" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "JUnit.SearchAPITest.executor": "Run",
+    "JUnit.SearchAPITest.testEmptyQuery.executor": "Run",
+    "JUnit.SearchAPITest.testErrorResponses.executor": "Run",
+    "JUnit.SearchAPITest.testInvalidQuery.executor": "Run",
+    "JUnit.SearchAPITest.testInvalidRequests.executor": "Run",
+    "JUnit.SearchAPITest.testMissingParameters.executor": "Run",
+    "JUnit.SearchAPITest.testSearchEndpoint (1).executor": "Run",
+    "JUnit.SearchAPITest.testSearchEndpoint.executor": "Run",
+    "JUnit.SearchAPITest.testSearchWithEmptyQuery.executor": "Run",
+    "JUnit.SearchAPITest.testSearchWithFiltersAndSorting.executor": "Run",
+    "JUnit.SearchAPITest.testSearchWithValidQuery (1).executor": "Run",
+    "JUnit.SearchAPITest.testSearchWithValidQuery (2).executor": "Run",
+    "JUnit.SearchAPITest.testSearchWithValidQuery.executor": "Run",
+    "JUnit.SearchAPITest.testSearchWithVariousParameters.executor": "Run",
+    "JUnit.SearchAPITest.testValidSearchQuery (1).executor": "Run",
+    "JUnit.SearchAPITest.testValidSearchQuery (2).executor": "Run",
+    "JUnit.SearchAPITest.testValidSearchQuery.executor": "Run",
+    "Maven.my-project [clean].executor": "Run",
+    "Maven.my-project [compile].executor": "Run",
+    "Maven.my-project [install].executor": "Run",
+    "Maven.my-project [test].executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "kotlin-language-version-configured": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "onboarding.tips.debug.path": "/Users/dariia_medvedieva/IdeaProjects/bear-apple-hw/src/Main.java",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RunManager" selected="JUnit.SearchAPITest.testErrorResponses">
+    <configuration name="SearchAPITest.testErrorResponses" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="my-project" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.apple.itunes.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="ALTERNATIVE_JRE_PATH" value="$USER_HOME$/Library/Java/JavaVirtualMachines/openjdk-21.0.2/Contents/Home" />
+      <option name="PACKAGE_NAME" value="com.apple.itunes" />
+      <option name="MAIN_CLASS_NAME" value="com.apple.itunes.SearchAPITest" />
+      <option name="METHOD_NAME" value="testErrorResponses" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SearchAPITest.testInvalidQuery" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="my-project" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.apple.itunes.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="ALTERNATIVE_JRE_PATH" value="$USER_HOME$/Library/Java/JavaVirtualMachines/openjdk-21.0.2/Contents/Home" />
+      <option name="PACKAGE_NAME" value="com.apple.itunes" />
+      <option name="MAIN_CLASS_NAME" value="com.apple.itunes.SearchAPITest" />
+      <option name="METHOD_NAME" value="testInvalidQuery" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SearchAPITest.testInvalidRequests" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="my-project" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.apple.itunes.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="ALTERNATIVE_JRE_PATH" value="$USER_HOME$/Library/Java/JavaVirtualMachines/openjdk-21.0.2/Contents/Home" />
+      <option name="PACKAGE_NAME" value="com.apple.itunes" />
+      <option name="MAIN_CLASS_NAME" value="com.apple.itunes.SearchAPITest" />
+      <option name="METHOD_NAME" value="testInvalidRequests" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SearchAPITest.testMissingParameters" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="my-project" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.apple.itunes.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="ALTERNATIVE_JRE_PATH" value="$USER_HOME$/Library/Java/JavaVirtualMachines/openjdk-21.0.2/Contents/Home" />
+      <option name="PACKAGE_NAME" value="com.apple.itunes" />
+      <option name="MAIN_CLASS_NAME" value="com.apple.itunes.SearchAPITest" />
+      <option name="METHOD_NAME" value="testMissingParameters" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SearchAPITest.testSearchWithVariousParameters" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="my-project" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.apple.itunes.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="ALTERNATIVE_JRE_PATH" value="$USER_HOME$/Library/Java/JavaVirtualMachines/openjdk-21.0.2/Contents/Home" />
+      <option name="PACKAGE_NAME" value="com.apple.itunes" />
+      <option name="MAIN_CLASS_NAME" value="com.apple.itunes.SearchAPITest" />
+      <option name="METHOD_NAME" value="testSearchWithVariousParameters" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <module name="bear-apple-hw" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="ALTERNATIVE_JRE_PATH" value="$USER_HOME$/Library/Java/JavaVirtualMachines/openjdk-21.0.2/Contents/Home" />
+      <option name="PACKAGE_NAME" value="com.example" />
+      <option name="MAIN_CLASS_NAME" value="com.example.SearchAPITest" />
+      <option name="METHOD_NAME" value="" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.SearchAPITest.testErrorResponses" />
+        <item itemvalue="JUnit.SearchAPITest.testInvalidRequests" />
+        <item itemvalue="JUnit.SearchAPITest.testSearchWithVariousParameters" />
+        <item itemvalue="JUnit.SearchAPITest.testInvalidQuery" />
+        <item itemvalue="JUnit.SearchAPITest.testMissingParameters" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="jdk-21.0.2-openjdk-21.0.2-4caba194b151-322ed176" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="869cc5f0-e3f7-42d0-b411-b86f0f4d5cdf" name="Changes" comment="" />
+      <created>1713211421882</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1713211421882</updated>
+      <workItem from="1713211423495" duration="7753000" />
+      <workItem from="1713221577378" duration="1325000" />
+      <workItem from="1713224064851" duration="11019000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
